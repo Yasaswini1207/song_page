@@ -1,0 +1,135 @@
+.bg-container {
+    background-image: url("https://img.freepik.com/free-photo/music-caucasian-woman-s-portrait-pink-studio-background-trendy-neon-light-beautiful-female-model-with-headphones-concept-human-emotions-facial-expression-sales-ad-fashion_155003-33914.jpg?w=900&t=st=1668433953~exp=1668434553~hmac=e27a6943a7dd5c34fede154ba516d97484b3a248be9e7ef87be8afa93d5c98f9");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+
+.card {
+    height: 28vh;
+    width: 380px;
+    background-size: cover;
+    text-align: center;
+    background-color: lightblue;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.button {
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.bg-container2 {
+    background-image: url("https://img.freepik.com/free-vector/silhouette-excited-audience-colourful-music-notes-background_1048-14332.jpg?w=740&t=st=1668521861~exp=1668522461~hmac=77761a15989b065ab73f03a86192648e47b8eaf09e751ac81e4853f817106c9e");
+    width: 100vw;
+    background-size: cover;
+    padding: 20px;
+}
+
+.bg-container3 {
+    height: 20vh;
+    text-align: right;
+    font-size: 50px;
+    background-image: url("https://img.freepik.com/premium-photo/guitarist-stage-background-soft-blur-concept_34200-251.jpg?w=1380");
+    background-size: cover;
+}
+
+
+.title {
+    color: black;
+    font-family: fantasy;
+    font-size: 25px;
+    border-color: black;
+    padding: 25px;
+    margin: 5px;
+    text-align: center;
+    font-style: italic;
+}
+
+.card2 {
+    color: black;
+    background-color: white;
+    font-size: 12px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 8px;
+    width: 40vh;
+}
+
+.heading2 {
+    font-weight: bold;
+    color: darkred;
+    font-family: "Caveat";
+}
+
+.paragraph2 {
+    margin: 10px;
+    font-family: "Monoton";
+}
+
+.nuvunte-image {
+    height: 70px;
+    width: 70px;
+}
+
+.button2 {
+    color: brown;
+    margin: 20px;
+    background-color: lightblue;
+    font-weight: bold;
+    border-width: 0px;
+    border-radius: 5px;
+}
+
+.bg-image7 {
+    background-image: url("https://img.freepik.com/premium-photo/bokeh-abstract-background_672709-6307.jpg?w=900");
+    height: 20vh;
+    width: 100vw;
+    background-size: cover;
+    color: white;
+}
+
+.bg-image8 {
+    background-image: url("https://img.freepik.com/free-vector/colorful-music-background_1035-9624.jpg?w=740&t=st=1669548720~exp=1669549320~hmac=e63190262e9a4960a57ea73edefa2f99d16bfdc26ddc9f45d9cffe3d05e767f5");
+    padding: 15px;
+    width: 100vw;
+    background-size: cover;
+}
+
+.heading4 {
+    color: black;
+    text-align: center;
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.card5 {
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+}
+
+.paragraph4 {
+    font-size: 10px;
+}
+
+.buttonend1 {
+    height: 40px;
+    width: 100px;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.buttonend2 {
+    height: 40px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
